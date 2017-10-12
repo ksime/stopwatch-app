@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/App.css"],"names":[],"mappings":"AAAA,KACE,kBACA,UAAY,CAGd,KACE,WAAa","file":"static/css/main.5e92b048.css","sourcesContent":[".App {\n  text-align: center;\n  margin: 10%;\n}\n\n.btn {\n  margin: 10px;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/components/App.css"],"sourceRoot":""}
